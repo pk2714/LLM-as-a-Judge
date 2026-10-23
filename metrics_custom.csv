@@ -1,0 +1,4 @@
+dataset,criterion,n,pearson,spearman,kappa,mae,bias,within_1,human_human_spearman
+Our set,helpfulness,30,0.879,0.878,0.869,0.367,0.233,93.333,
+Our set,correctness,30,0.852,0.887,0.852,0.433,-0.033,90.0,
+Our set,tone,30,0.878,0.849,0.877,0.367,0.033,93.333,

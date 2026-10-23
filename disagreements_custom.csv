@@ -1,0 +1,6 @@
+id,helpfulness_judge,correctness_judge,tone_judge,reason,helpfulness_human,correctness_human,tone_human,total_gap,question,response
+27,5,5,2,Provides correct formula but uses a condescending remark.,1.0,1.0,3.0,9.0,How do I convert Celsius to Fahrenheit?,"F = C x 9/5 + 32. If you can't do this simple math, use a calculator."
+20,2,2,2,"The line is blunt, not a polite request, and doesn't properly ask for the day off.",3.0,4.0,1.0,4.0,Write one polite line asking my manager for a day off on Friday.,I'm taking Friday off. Let me know if that's a problem.
+18,5,5,3,"Provides the correct answer concisely, but the phrasing is somewhat dismissive.",3.0,5.0,2.0,3.0,How many bones are in the adult human body?,"206. Everyone knows that, it's basic biology."
+24,1,2,3,The answer is overly brief and does not explain the difference between RAM and ROM.,2.0,4.0,3.0,3.0,What is the difference between RAM and ROM?,RAM and ROM are both types of memory in a computer.
+26,1,1,5,The answer gives an incorrect conversion formula.,1.0,1.0,3.0,2.0,How do I convert Celsius to Fahrenheit?,Just multiply the Celsius value by 2 and add 30. That gives the exact answer.

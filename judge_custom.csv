@@ -1,0 +1,31 @@
+id,helpfulness,correctness,tone,reason
+1,5,5,5,"Provides the correct capital with a brief, polite explanation."
+2,1,1,5,"The answer gives the wrong capital, making it unhelpful and incorrect, though the tone is polite."
+3,4,5,1,Correct answer but rude and dismissive tone.
+4,5,5,5,"Provides accurate, complete methods and example in a polite tone."
+5,2,2,5,"The answer suggests sorting instead of simply reversing, which is incorrect for the asked task."
+6,2,2,3,"The answer is vague, lacks concrete Python code, and only hints at methods without specifics."
+7,5,5,5,"Provides empathetic, accurate, and practical advice."
+8,2,3,2,"The reply is brief and unsympathetic, offering little practical advice despite being factually simple."
+9,1,2,1,"The reply is dismissive, unhelpful, and lacks constructive advice."
+10,5,5,5,"Provides a concise, accurate, and polite explanation of the cause of seasons."
+11,1,1,5,The answer gives a common misconception and does not correctly explain the cause of seasons.
+12,4,5,5,"Correct core answer but overly brief, lacking brief explanation."
+13,5,5,5,"Provides relevant, accurate suggestions in a polite tone"
+14,1,1,3,"The suggestion is unhealthy and factually wrong, offering poor help despite a neutral tone."
+15,1,1,1,"The answer dismisses the request, provides no useful or accurate breakfast suggestions, and is rude."
+16,5,5,5,Provides the exact number and relevant context clearly and politely.
+17,1,1,3,"The answer gives an incorrect number of bones, providing misleading information."
+18,5,5,3,"Provides the correct answer concisely, but the phrasing is somewhat dismissive."
+19,5,5,5,"Provides a concise, polite request that meets the user's request."
+20,2,2,2,"The line is blunt, not a polite request, and doesn't properly ask for the day off."
+21,5,5,5,"Provides a concise, polite request that meets the user's need perfectly."
+22,5,5,5,"Provides a clear, accurate, and polite explanation of RAM vs ROM."
+23,1,1,3,The answer reverses RAM and ROM definitions and is factually incorrect.
+24,1,2,3,The answer is overly brief and does not explain the difference between RAM and ROM.
+25,5,5,5,Provides the exact formula and a clear example.
+26,1,1,5,The answer gives an incorrect conversion formula.
+27,5,5,2,Provides correct formula but uses a condescending remark.
+28,5,5,5,Provides the correct author concisely and politely.
+29,1,1,5,"The answer gives an incorrect author, failing to address the question correctly."
+30,5,5,5,Provides the correct author and relevant details concisely.

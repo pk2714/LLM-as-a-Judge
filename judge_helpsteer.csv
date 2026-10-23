@@ -1,0 +1,121 @@
+id,helpfulness,correctness,tone,reason
+1,4,5,5,Correctly identifies the inconsistency and explains why the answer cannot be determined.
+2,5,5,5,"Provides a clear, accurate, and polite introductory paragraph for the keyword."
+3,1,1,5,The reply does not provide the requested summary and only asks for a link.
+4,4,5,5,"Provides the correct hidden field syntax and explanation, though limited detail on webhook usage."
+5,1,1,4,"The response provides vague, likely inaccurate neighborhoods and does not address the specific comparison request."
+6,5,5,5,Provides the correct percentages in the requested order and format with a polite tone.
+7,5,5,5,"Provides empathetic, practical advice that directly addresses the user's distress."
+8,5,5,5,"Provides a clear, accurate definition and key uses in a polite manner"
+9,2,3,1,"The reply is a brief, rude exchange that doesn't deliver a full one-hour drama scene."
+10,2,2,5,"The answer does not follow the 3‑sentence requirement and adds many unnecessary, partly inaccurate details."
+11,5,5,5,"Provides a clear, accurate answer in a polite manner"
+12,2,2,5,Provides some info but contains major factual errors about the book's content.
+13,5,5,5,"Provides a concise, accurate, and polite introduction as requested."
+14,3,3,5,The answer gives a reasonable explanation but likely misclassifies the term within the provided categories.
+15,5,5,5,"Provides a clear, accurate list of relevant industries in a polite tone"
+16,3,4,5,Provides relevant prompt ideas but lacks completeness and polish.
+17,5,5,5,"Provides a concise, accurate, and polite description of Discord."
+18,5,5,5,Provides the correct reference and explanation concisely.
+19,1,1,3,"The answer is unrelated, incorrect, and does not address the actual probability question."
+20,3,5,5,"Polite greeting that invites clarification, but provides no substantive help yet."
+21,2,2,4,"The answer provides inaccurate and partially fabricated dialogue, though it is politely presented."
+22,2,2,4,"Provides inaccurate information about the first humans, though the tone is polite."
+23,4,5,5,"Provides a suitable, engaging advert with appropriate tone."
+24,4,5,5,Clearly explains lack of emotions and offers further help.
+25,3,2,5,Answer is polite but only partially addresses the question and contains scientific inaccuracies.
+26,3,3,5,The answer gives a generic overview but lacks specific details about the pattern.
+27,2,2,5,It describes the task but does not provide an actual GPT-3 prompt as requested.
+28,4,4,5,"The reply explains the concept and why the question wasn't answered, and does so accurately and politely."
+29,5,5,5,"The reply correctly addresses the request, provides a clear format, and is polite."
+30,2,4,5,"The reply is vague and doesn't give concrete examples, though it is polite and mostly accurate."
+31,2,2,4,"It is a brief poem, not a 14‑line sonnet as requested."
+32,1,1,3,"The reply is irrelevant, contains false legal claims, and only mildly polite."
+33,4,2,5,Answer is clear and polite but contains scientific inaccuracies about a Sun explosion.
+34,1,1,5,The answer is incomplete and fails to provide the requested summary of landmark court rulings.
+35,4,5,5,"Correctly notes missing gender info, but cannot give a numeric answer."
+36,5,5,5,"Provides accurate, complete steps and clearly distinguishes OSS from Enterprise"
+37,3,4,5,Provides generic testing suggestions but lacks specific answer to the vague request.
+38,4,4,5,"Provides a clear, accurate overview of good vs. bad design with a polite tone."
+39,2,2,5,Missing the required markdown list with ◆ bullets and does not capture rauchg's style.
+40,1,1,5,"The response provides fabricated, inaccurate information about a non-existent organization in Death Note."
+41,2,2,5,Provides a polite but inaccurate explanation that overstates carrots' effects.
+42,2,2,5,"Provided generic questions, not the specific no‑oriented style requested."
+43,2,1,4,Provides an incorrect formula and lacks proper explanation.
+44,1,1,3,The reply does not address the user's request and provides no useful content.
+45,4,4,5,"Provides a clear, accurate explanation but could be more nuanced."
+46,1,2,4,The answer ignores the request and provides an unrelated list of concepts.
+47,3,2,4,The summary is plausible but likely inaccurate to the actual material.
+48,2,2,4,The answer misidentifies recipients and does not address the UN peacekeeping context.
+49,4,5,5,"Provides a clear, accurate explanation of redundant UPS and its 30% expansion capability."
+50,2,2,4,"The answer is vague and contains inaccurate advice, especially about using hidden fields for passwords."
+51,1,2,4,The assistant unnecessarily asked for a transcript instead of using the given information to answer.
+52,1,1,4,The response gives wrong calculations and does not address the user's specific figure of 215.28
+53,3,5,5,"Polite greeting and offer to help, but provides no substantive assistance yet."
+54,1,2,5,"The answer does not address the question, offering only a generic statement."
+55,1,1,3,"The answer is incomplete, incorrect, and does not address the question."
+56,3,5,5,Provides a plausible CEO statement but offers no specific actionable content.
+57,5,5,5,"Provides a clear, accurate, and polite guide to propagating Dragon Tree cuttings."
+58,4,5,3,Provides a lively intro but is overly informal and somewhat generic.
+59,5,4,5,"Correctly identifies glycosidic bonds, minor oversimplification of the reaction details."
+60,1,1,3,The response fails to answer the question and provides no correct information.
+61,4,5,5,"Provides a clear, accurate explanation of share vs export, though a bit generic."
+62,1,1,5,The calculation is wrong and the result is impossible given the numbers provided.
+63,3,2,5,Provides basic steps but includes inaccurate backup type options and omits key details.
+64,3,3,5,Provides a list but includes inaccurate or irrelevant French equivalents and some errors.
+65,3,3,5,Provides some relevant info but oversimplifies the contested status of the capital.
+66,4,4,5,"Provides clear steps, mostly accurate but minor details could be improved."
+67,3,3,5,Provides a basic TOC but lacks the detailed chapter and section structure the user requested.
+68,2,2,5,"The answer contains several factual errors about language categories and examples, though it is politely written."
+69,5,5,5,"The response provides a concise, accurate one‑sentence summary in a polite tone."
+70,2,2,3,Misinterprets wine glasses count and gives incorrect total.
+71,4,4,5,"Provides a clear, appropriate data model but is somewhat generic."
+72,1,1,4,"The response provides fabricated dialogue that is not in the film, failing to answer the question accurately."
+73,1,1,3,"The reply does not provide the requested sales flyer, only asks a clarifying question."
+74,4,5,5,"Accurately corrects the myth and explains the real effect, though it doesn't provide a false claim."
+75,1,1,4,The response gives an incorrect calculation and does not explain the 215.28 figure.
+76,5,5,5,"Provides a complete, accurate CSV list in the requested order."
+77,3,2,5,"Lists common senses but adds inaccurate extra categories, reducing factual accuracy."
+78,2,1,4,"The answer gives an incorrect and confused calculation; the correct expectation is 60 rolls, not ~16.9."
+79,3,4,5,Provides plausible synopses but some are unoriginal and lack depth.
+80,5,5,5,"The reply appropriately invites the user to share details, is accurate and polite."
+81,3,3,5,"Provides generic suggestions but lacks a specific, up‑to‑date answer."
+82,2,5,5,"Answer is overly long and doesn't meet the two‑sentence limit, though factually correct and polite."
+83,3,5,5,"The response politely asks for clarification, which is appropriate given the vague prompt."
+84,3,5,4,"Provides a brief, correct but vague answer about creativity."
+85,3,2,5,Explanation contains inaccuracies and confusing statements about exponentiation.
+86,1,1,4,The answer ignores the specific prompt and provides an unrelated description.
+87,4,4,5,Provides a solid overview with minor overstatements about organ regeneration.
+88,2,4,5,Provides generic info but lacks the specific methodology requested.
+89,4,4,5,"Provides relevant, accurate troubleshooting steps in a polite manner"
+90,2,2,4,"The response miscounts and misinterprets the ballots, providing incorrect and unhelpful results."
+91,4,5,5,"Provides relevant, accurate ideas but lacks personal perspective requested"
+92,2,2,5,The answer is overly simplistic and partially incorrect about the relationship between democratic decisions and undemocratic processes.
+93,3,5,4,The reply is polite and correct but only asks for clarification instead of providing ideas.
+94,4,4,5,"Provides a clear, usable invoice template with minor omissions."
+95,3,2,4,Provides a vague overview with some inaccuracies and limited depth.
+96,5,5,5,Provides the correct reference and answer concisely and politely.
+97,1,1,3,The answer misstates facts and fails to summarize correctly.
+98,2,2,4,The response gives unrelated and mostly inaccurate explanations for the discrepancy.
+99,2,2,4,"Provides vague, generic advice with limited relevance and uncertain accuracy, though it is politely worded."
+100,5,5,5,"Provides accurate, relevant methods and is politely presented."
+101,5,5,5,"Provides accurate, comprehensive, and courteous sleep advice."
+102,3,3,4,Provides useful workarounds but incorrectly suggests direct PDF upload and some details are vague.
+103,2,1,4,The suggested plays are inaccurate and do not match the requested AI‑writing motif.
+104,3,2,5,The response gives a general overview but misnames the header and contains factual errors about its usage.
+105,2,2,4,Provides some data but many win and interception figures are inaccurate.
+106,2,2,5,The answer provides outdated and inaccurate information about the oldest living person.
+107,5,5,5,"Provides a clear, accurate recipe in a friendly tone"
+108,5,5,5,"Provides the correct schools in alphabetical order with a clear, polite answer"
+109,1,1,4,The response provides incorrect and outdated information about the oldest living person.
+110,3,2,5,"The answer is polite and gives a general overview, but contains several factual errors about its origins and properties."
+111,2,2,4,"The answer gives an incorrect formula and lacks context, though it is politely presented."
+112,1,1,2,"The answer is factually incorrect and does not address the question, though the tone is not rude."
+113,2,1,4,"The answer incorrectly claims persistent memory, making it largely wrong despite a polite tone."
+114,4,5,5,"Provides useful, accurate advice in a polite tone."
+115,5,5,5,"Provides clear, correct examples and a polite explanation"
+116,4,5,5,"Provides appropriate, correct, and polite guidance while requesting more details."
+117,5,5,5,"Provides the correct, concise answer in a polite manner"
+118,3,4,5,Provides plausible but generic synopses; mostly correct and polite but not very insightful.
+119,5,5,5,Accurately and politely explains lack of memory
+120,5,5,5,"Provides a clear, polite, and complete request email as asked."
